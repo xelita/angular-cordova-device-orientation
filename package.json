@@ -1,0 +1,30 @@
+{
+    "name": "angular-device-orientation",
+    "version": "1.0.0",
+    "description": "Bring Apache Cordova Device Orientation API to AngularJS Apps...",
+    "main": "src/cordovaDeviceOrientationModule.js",
+    "scripts": {
+        "bower": "bower install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xelita/angular-device-orientation.git"
+    },
+    "keywords": [
+        "angular",
+        "cordova",
+        "device-orientation",
+        "compass",
+        "plugin"
+    ],
+    "author": "xelita <admin@xelita.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xelita/angular-device-orientation/issues"
+    },
+    "homepage": "https://github.com/xelita/angular-device-orientation",
+    "dependecies": {},
+    "devDependencies": {
+        "bower": "~1.2.8"
+    }
+}

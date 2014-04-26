@@ -113,5 +113,3 @@ cordovaDeviceOrientationModule.factory('cordovaDeviceOrientationService', ['$roo
         }
     };
 }]);
-
-
